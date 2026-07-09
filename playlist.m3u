@@ -257,7 +257,7 @@ http://fastshare1.com/live/25711345/late8airline/742611.ts
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1783164812&token=b1814e8bbaff2129619347bfea415bde69ab272568e87c126f8578ac8f279042
 
 #EXTINF:-1 tvg-id="pogo.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
-http://mxonlive.xyz/live/xap/150483.m3u8?e=1783164812&token=6aa002262d8312716157236f2a4c5e6727be4ca65d83ef5b75c69ef8ca7ae722
+http://mxonlive.xyz/live/xap/150483.m3u8?e=1783164812&token=6aa002262d8312716157236f2a4c5e6727be722
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network HD+
 http://mxonlive.xyz/live/xap/153154.m3u8?e=1783164812&token=21ed23b82fb3eb08cae16b74eb89d7eb8cbaba51948ef8906133e67add0c1f97
@@ -271,47 +271,24 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1783164812&token=26219582cda441b1be32
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1783164812&token=af989a837e5cb2b9eebea436308489691831e6f74f42a32651b627878309256f
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="INDIAN | KIDS Cartoon",IN: NICK SONIC
-http://mxonlive.xyz/live/xap/34011.m3u8?e=1783164812&token=cbe5e9cdf1db2338a4d40e9a46a8e3c49b687cb0a29aee2a915c88a4f091fd13
-
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="INDIAN | KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1783164812&token=2a98a7e7bb84edb42e69ef4f5640c37420e9469be998c731c064be0859e5a439
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5cd2618cbbf8039811d0e52a037bcfba.png" group-title="Canada ⇒ Kids",CA: Disney Channel
-http://mxonlive.xyz/live/xap/348866.m3u8?e=1783152615&token=57e39df8b9d735db2ad0d153d24f6f0a45ba45e793f4d95ab167d4f75ee2307
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f57e3bc438fc8a83d70ffb611831921.png" group-title="Canada ⇒ Kids",CA: Disney Junior (FR)
-http://mxonlive.xyz/live/xap/348867.m3u8?e=1783152615&token=3a5c35e971f5d748e796b8f6ed61789304c3579e082f45668ccaaec8bda92965
-
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9e9bef84f3c14025b4d62cc92a3641c0.png" group-title="Canada ⇒ Kids",CA: Disney XD
-http://mxonlive.xyz/live/xap/348868.m3u8?e=1783152615&token=29a0bcb690e3f81106ca607541fe753bf84295c63bd53544d7c76e0cc6d85cb7
-
-#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Colors (4K)
-http://mxonlive.xyz/live/xap/109947.m3u8?e=1783164812&token=7003147e4bad9545763174a2df15f8617b704039d16436b0800a8a55430262fe
-
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY SET (4K)
-http://mxonlive.xyz/live/xap/109948.m3u8?e=1783164812&token=3ef9d793606e0dc930c27e059edb96f5abebdab3b08105e04ac8bbab993b0d43
-
-#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
-http://mxonlive.xyz/live/xap/109949.m3u8?e=1783164812&token=00c25fdf109516a67714f3195b17eb711f4046abe198db75d979a3beb8c72832
-
-#EXTINF:-1 tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE TV (4K)
-http://mxonlive.xyz/live/xap/109950.m3u8?e=1783164812&token=70e546d8327a75ad49bb344e1fd07b7b283b0d4c507c26b5fcbae36ffbfa7369
-
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR BHARAT (4K)
-http://mxonlive.xyz/live/xap/109951.m3u8?e=1783164812&token=6f9a7b82511e35f6eb216780692720a6f95fcb531ab4237a99770a39affd0aed
-
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&tv (4K)
-http://mxonlive.xyz/live/xap/109952.m3u8?e=1783164812&token=1e90d640511cbbb7024efdaf6de4df8f6a2ab9f760d4513ce0165356b6385216
-
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY SAB (4K)
-http://mxonlive.xyz/live/xap/109953.m3u8?e=1783164812&token=d010e667a653a906681b6e8531180bed47396a0e80c1e5ca4114b5626173a194
-
-#EXTINF:-1 group-title="INDIAN | MUSIC",IN: Mastii
-http://mxonlive.xyz/live/xap/112988.m3u8?e=1783164812&token=6c755cfa6ecd0058d1db4dce3567ab3e63ab842ac768c626a367ec3296a78acc
-
-#EXTINF:-1 tvg-id="housefullmovies.in" group-title="INDIAN | MUSIC",IN: UTV Bindass
-http://mxonlive.xyz/live/xap/112993.m3u8?e=1783164812&token=dfd59cf55bd0d6bd1fa1152c0047139ac98786cdffc5f0fb27821617164b1a02
-
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
-http://mxonlive.xyz/live/xap/109949.m3u8?e=1783274556&token=4a08b6cf468028fcefdd3d2069d621462f86a5c400fa290d585d53af828de188
+http://mxonlive.xyz/live/xap/109949.m3u8?e=1783699000&token=cc67cd91f9312c6f113c7f11d5fff4d2c430bbe5193ad9e2e866cfb0d61656d7
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus
+http://mxonlive.xyz/live/xap/221252.m3u8?e=1783699000&token=082f93eb74e057a23c4a1909b92df10c77085e2557a780dd017211c2b78d07fa
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus FHD
+http://mxonlive.xyz/live/xap/66208.m3u8?e=1783699000&token=a5908e4555649f2f1b9f0bd0be0a97b7f0b8e65bbf41f84e53a790824650ce0d
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="Canada ⇒ Sports",CA: TSN 1
+http://mxonlive.xyz/live/xap/349014.m3u8?e=1783699000&token=f00b4eaed4f573e1dfaee03b90cc4e54bdc6f6c2f58316923a6d029ccb1009e1
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="Canada ⇒ Sports",CA: TSN 5
+http://mxonlive.xyz/live/xap/349018.m3u8?e=1783699000&token=cd2cbeb49335995cb2d7ad5e64defaa7fefbe09c5bd8e8058e0b899deed5778d
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+http://103.165.93.31:8095/unt-s/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/741567.ts
+
