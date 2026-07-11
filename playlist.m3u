@@ -5,14 +5,14 @@
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
-http://103.151.60.162:2121/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305" group-title="BANGLA",Channel-1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -270,19 +270,28 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1783164812&token=26219582cda441b1be32
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1783164812&token=af989a837e5cb2b9eebea436308489691831e6f74f42a32651b627878309256f
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
-http://mxonlive.xyz/live/xap/109949.m3u8?e=1783699000&token=cc67cd91f9312c6f113c7f11d5fff4d2c430bbe5193ad9e2e866cfb0d61656d7
+http://mxonlive.xyz/live/xap/109949.m3u8?e=1783857196&token=9546884cfb0f502f5e67fabd83096ee2b8c7840c4ccfaf922f7f093f4b00cc??
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus
-http://mxonlive.xyz/live/xap/221252.m3u8?e=1783699000&token=082f93eb74e057a23c4a1909b92df10c77085e2557a780dd017211c2b78d07fa
+http://mxonlive.xyz/live/xap/221252.m3u8?e=1783857196&token=6187e1968dd14b8c53962179563918689f8f9e7b4a6cb2b2b08ae20d6f5aedb9
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus FHD
-http://mxonlive.xyz/live/xap/66208.m3u8?e=1783699000&token=a5908e4555649f2f1b9f0bd0be0a97b7f0b8e65bbf41f84e53a790824650ce0d
-
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="Canada ⇒ Sports",CA: TSN 1
-http://mxonlive.xyz/live/xap/349014.m3u8?e=1783699000&token=f00b4eaed4f573e1dfaee03b90cc4e54bdc6f6c2f58316923a6d029ccb1009e1
+http://mxonlive.xyz/live/xap/66208.m3u8?e=1783857196&token=4083013c50c94d39721a081284bc991cc3e0aea10f307178b9437e1bcd47798a
 
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="Canada ⇒ Sports",CA: TSN 5
-http://mxonlive.xyz/live/xap/349018.m3u8?e=1783699000&token=cd2cbeb49335995cb2d7ad5e64defaa7fefbe09c5bd8e8058e0b899deed5778d
+http://mxonlive.xyz/live/xap/349018.m3u8?e=1783857196&token=732c5dbfdcb537b77c209d078dc636ae628c86c75b28a1a8b3a4c747dc93685e
 
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="Canada ⇒ Sports",CA: TSN 1
+http://mxonlive.xyz/live/xap/349014.m3u8?e=1783857196&token=dfbafe85aae14e66152e5bfba7fa795a5ee1802fc5b51ce2cdb39c4c1d3389f1
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/742610.ts
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026
+http://fastshare1.com/live/25711345/late8airline/742611.ts
